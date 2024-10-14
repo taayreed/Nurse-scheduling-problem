@@ -89,7 +89,7 @@ pyparsing==3.1.2
 pyreadstat==1.2.7
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywinpty==2.0.13  # Optional: Only for Windows
+# pywinpty==2.0.13  # Removed: This is Windows-specific
 pyzmq==26.0.3
 scikit-fuzzy==0.4.2
 scikit-learn==1.5.1
